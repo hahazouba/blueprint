@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-
 from flask import Flask
 from users import user_blue
 from order import order_blue
