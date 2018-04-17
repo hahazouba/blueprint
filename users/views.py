@@ -1,6 +1,5 @@
 # -*- coding:utf-8 -*-
 
-
 from . import user_blue
 
 
@@ -11,4 +10,4 @@ def user_info():
 
 @user_blue.route('/user_list')
 def user_list():
-    print "user_list"
+    print 'user_list'
